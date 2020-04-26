@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "reset": "node reset.js",
     "test": "jest"
   },
   "author": "",
@@ -11,6 +12,7 @@
   "dependencies": {
     "alfy": "^0.9.1",
     "alfy-test": "^0.4.0",
+    "awesome-phonenumber": "^2.31.0",
     "is-valid-domain": "0.0.14",
     "whois-json": "^2.0.4"
   },

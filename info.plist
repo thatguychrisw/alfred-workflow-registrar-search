@@ -20,6 +20,26 @@
 				<key>vitoclose</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>2D3A818D-E024-40C0-8CB5-C8E91FD24615</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>Show details</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>2B3F8A49-2D06-4BC7-86CA-17F4CFF9753D</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string>Copy to clipboard</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 		</array>
 	</dict>
 	<key>createdby</key>
@@ -100,6 +120,54 @@
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alignment</key>
+				<integer>0</integer>
+				<key>backgroundcolor</key>
+				<string></string>
+				<key>fadespeed</key>
+				<integer>0</integer>
+				<key>fillmode</key>
+				<integer>0</integer>
+				<key>font</key>
+				<string>Helvetica Neue Light</string>
+				<key>largetypetext</key>
+				<string>{var:name}
+{var:url}
+{var:phone}
+Reseller: {var:reseller}</string>
+				<key>textcolor</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.largetype</string>
+			<key>uid</key>
+			<string>2D3A818D-E024-40C0-8CB5-C8E91FD24615</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{var:name}
+{var:url}
+{var:phone}
+Reseller: {var:reseller}</string>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>2B3F8A49-2D06-4BC7-86CA-17F4CFF9753D</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -112,10 +180,24 @@
 			<key>ypos</key>
 			<integer>260</integer>
 		</dict>
+		<key>2B3F8A49-2D06-4BC7-86CA-17F4CFF9753D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>255</integer>
+			<key>ypos</key>
+			<integer>525</integer>
+		</dict>
+		<key>2D3A818D-E024-40C0-8CB5-C8E91FD24615</key>
+		<dict>
+			<key>xpos</key>
+			<integer>255</integer>
+			<key>ypos</key>
+			<integer>400</integer>
+		</dict>
 		<key>B2D12C16-B2C2-4969-89DC-5C111C3B6670</key>
 		<dict>
 			<key>xpos</key>
-			<integer>245</integer>
+			<integer>255</integer>
 			<key>ypos</key>
 			<integer>260</integer>
 		</dict>
