@@ -88,7 +88,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>Search for the registrar of a domain</string>
+				<string>Search for a domain's registrar</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
