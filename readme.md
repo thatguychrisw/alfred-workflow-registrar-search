@@ -7,7 +7,7 @@
 
 Download the current release and double click the Alfred workflow to install.
 
-[Current Release](https://github.com/thatguychrisw/alfred-workflow-registrar-search/releases/tag/1.1.0)
+[Current Release](https://github.com/thatguychrisw/alfred-workflow-registrar-search/releases/download/1.1.0/Registrar-Search-1.1.0.zip)
 
 ## Usage
 
