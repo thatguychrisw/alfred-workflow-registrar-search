@@ -1,14 +1,20 @@
 {
-  "name": "registrar-lookup-workflow",
-  "version": "1.0.0",
-  "description": "",
+  "name": "alfred-workflow-registrar-search",
+  "version": "1.1.0",
+  "description": "Alfred 3 workflow to find a domain's registrar",
   "main": "index.js",
+  "author": {
+    "name": "Christopher Willard",
+    "email": "thatguychrisw@gmail.com",
+    "url": "christopherwillard.com"
+  },
   "scripts": {
     "reset": "node reset.js",
-    "test": "jest"
+    "test": "jest",
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
   },
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "alfy": "^0.9.1",
     "alfy-test": "^0.4.0",
