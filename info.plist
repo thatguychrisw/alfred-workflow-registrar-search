@@ -45,7 +45,7 @@
 	<key>createdby</key>
 	<string>Christopher Willard &lt;thatguychrisw@gmail.com&gt;</string>
 	<key>description</key>
-	<string>Looks up the registrar for a given domain name</string>
+	<string>Search for a domain's registrar</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -205,7 +205,7 @@ Reseller: {var:reseller}</string>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.0.0</string>
+	<string>1.1.0</string>
 	<key>webaddress</key>
 	<string>www.christopherwillard.com</string>
 </dict>
