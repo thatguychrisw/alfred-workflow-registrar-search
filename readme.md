@@ -7,6 +7,8 @@
 
 Download the current release and double click the Alfred workflow to install.
 
+[Current Release](https://github.com/thatguychrisw/alfred-workflow-registrar-search/releases/tag/1.1.0)
+
 ## Usage
 
 In Alfred, type `reg`, and use <kbd>Enter</kbd>, to find a domain's registar and open it's website in your default browser.
