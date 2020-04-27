@@ -1,7 +1,9 @@
 # alfred-workflow-registrar-search
-> [Alfred 3](https://www.alfredapp.com) workflow to find a domain's registrar
+> [Alfred 3](https://www.alfredapp.com) workflow to find a domain's registrar 
 
 ![Regitrar Workflow](screenshot.png "Alfred Workflow")
+
+![Github Build](https://github.com/thatguychrisw/alfred-workflow-registrar-search/workflows/Github%20Build/badge.svg?branch=master)
 
 ## Install
 
