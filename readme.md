@@ -20,7 +20,7 @@ Use <kbd>⇧</kbd> to view the reseller for the domain.
 ## Related
 
 - [alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
-- [alfy-test](https://github.com/sindresorhus/alfy-test) - Write tests for your alfy based Alfred workflows
+- [alfy-test](https://github.com/SamVerschueren/alfy-test) - Write tests for your alfy based Alfred workflows
 
 ## License
 
